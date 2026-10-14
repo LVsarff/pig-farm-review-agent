@@ -24,7 +24,7 @@
 ## 界面预览
 
 <p align="center">
-  <img src="docs/screenshots/login.png" width="820" alt="蓬蓬登录页" />
+  <img src="docs/screenshots/login.jpg" width="820" alt="蓬蓬登录页" />
   <br>
   <sub>登录页 —— 多用户与邀请码注册机制，支持 PWA 添加到主屏幕</sub>
 </p>
