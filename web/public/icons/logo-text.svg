@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="72" viewBox="0 0 200 72" role="img" aria-labelledby="title desc">
+  <title id="title">蓬蓬</title>
+  <desc id="desc">蓬蓬 · 养殖场审查 Agent 应用 Logo</desc>
+  <defs>
+    <clipPath id="icon-clip">
+      <rect x="0" y="0" width="72" height="72" rx="18" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#icon-clip)">
+    <image href="icon-192.png" x="0" y="0" width="72" height="72" preserveAspectRatio="xMidYMid slice" />
+  </g>
+  <text
+    x="92"
+    y="55"
+    fill="#F57F28"
+    font-family="Inter, -apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif"
+    font-size="46"
+    font-weight="700"
+    letter-spacing="2"
+  >蓬蓬</text>
+</svg>
